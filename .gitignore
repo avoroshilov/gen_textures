@@ -1,0 +1,5 @@
+.vs/*
+_interm/*
+_out/*
+GenTextures/generated/*.tga
+GenTextures/.vs/*
